@@ -1,2 +1,2 @@
 # front-end-assignments
-a repository to practise front-end development
+a repository to practice front-end development

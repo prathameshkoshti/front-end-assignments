@@ -1,0 +1,21 @@
+Assignment-1: Story of my Life 🥳
+------------------------------------------------------------------------------------------------------------------------
+In this assignment you have to write about yourself.
+1. First paragraph will contain information about you, next para will be of - what you have become, about your growth in any field, how you have developed yourself throughout these years.
+2. Then use the lists to show your strengths and weaknesses (Ordered and Unordered should be used).
+3. Then create a new para to elaborate how are you planning to overcome from these weaknesses.
+4. Create a table about Do's and Dont's
+	In this table Do's and Dont's will be the headings of table
+	- Under Do's you should include things that you are willing to do
+	- Under Dont's you should write the things that you want to avoid.
+5. In the next paragraph write about what are you expecting from your Life.
+6. In the last paragraph write about what do you want to achieve.
+------------------------------------------------------------------------------------------------------------------------
+
+Conditions
+------------------------------------------------------------------------------------------------------------------------
+You have to use all the basic html tags and html5 tags which might contain tags like aside, section, nav, footer, header, etc.
+Use table tag
+Use Ordered list and Unordered list.
+Use Paragraph tag also strong tag for important highlights.
+------------------------------------------------------------------------------------------------------------------------
